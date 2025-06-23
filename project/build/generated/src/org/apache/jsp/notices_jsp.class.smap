@@ -1,0 +1,15 @@
+SMAP
+notices_jsp.java
+JSP
+*S JSP
+*F
++ 0 notices.jsp
+notices.jsp
+*L
+1,2:45
+3:47,9
+4:56
+6,14:58
+19,15:72
+33,33:87
+*E
